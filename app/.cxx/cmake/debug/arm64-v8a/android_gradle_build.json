@@ -1,0 +1,163 @@
+{
+  "stringTable": {
+    "0": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android29 --gcc-toolchain=/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/dexinfo -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/oat-parser -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -fpermissive -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=aarch64-none-linux-android29 --gcc-toolchain=/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_PLATFORM=29 -DDEVICE_CONFIGURATION=strategies/default.h -DHAVE_PAGEMAP_ACCESS=1 -DTIME_SOURCE=TIME_SOURCE_MONOTONIC_CLOCK -DWITH_THREADS=1 -D__ARM_ARCH_8A__ -Dflush_EXPORTS -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/dexinfo -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/oat-parser -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/eviction -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=gnu11 -pedantic -Wall -Wextra -fPIC -O3 -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=aarch64-none-linux-android29 --gcc-toolchain=/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Ddexinfo_EXPORTS -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/dexinfo -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/oat-parser -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -fpermissive -std=c++11 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -fpermissive -O0 -fno-limit-debug-info -fPIC",
+    "4": "--target=aarch64-none-linux-android29 --gcc-toolchain=/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Doatparser_EXPORTS -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/dexinfo -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush -I/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/oat-parser -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -fpermissive -std=c++11 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -fpermissive -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/CMakeLists.txt",
+    "/home/ishadi/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/ishadi/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/CMakeLists.txt",
+    "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/config.cmake",
+    "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/dexinfo/CMakeLists.txt",
+    "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/oat-parser/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/ishadi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/ishadi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "dexinfo-Debug-arm64-v8a": {
+      "buildCommand": "/home/ishadi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a\" dexinfo",
+      "buildType": "debug",
+      "toolchain": "1086714902",
+      "abi": "arm64-v8a",
+      "artifactName": "dexinfo",
+      "files": [
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/dexinfo/dexinfo.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libdexinfo.so",
+      "runtimeFiles": []
+    },
+    "flush-Debug-arm64-v8a": {
+      "buildCommand": "/home/ishadi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a\" flush",
+      "buildType": "debug",
+      "toolchain": "1086714902",
+      "abi": "arm64-v8a",
+      "artifactName": "flush",
+      "files": [
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/calibrate.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/hit.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/libflush.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/lock.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/timing.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/utils.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/eviction/eviction.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libflush/armv8/libflush.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libs/arm64-v8a/libflush.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Debug-arm64-v8a": {
+      "buildCommand": "/home/ishadi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a\" native-lib",
+      "buildType": "debug",
+      "toolchain": "1086714902",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/fakedl.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/ReadOffset.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/CheckFlags.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": [
+        "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/liboatparser.so",
+        "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libs/arm64-v8a/libflush.so",
+        "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libdexinfo.so"
+      ]
+    },
+    "oatparser-Debug-arm64-v8a": {
+      "buildCommand": "/home/ishadi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a\" oatparser",
+      "buildType": "debug",
+      "toolchain": "1086714902",
+      "abi": "arm64-v8a",
+      "artifactName": "oatparser",
+      "files": [
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/oat-parser/oat/OATParser.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/oat-parser/elf/elfloader.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/liboatparser.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1086714902": {
+      "cCompilerExecutable": "/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/ishadi/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

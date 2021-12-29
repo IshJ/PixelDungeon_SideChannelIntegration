@@ -1,0 +1,24 @@
+# ninja log v5
+71	960	1631866287	oat-parser/CMakeFiles/oatparser.dir/oat/OATParser.cpp.o	48089512786ee946
+72	688	1631866287	oat-parser/CMakeFiles/oatparser.dir/elf/elfloader.cpp.o	14168a3cd3298ca4
+17	117	1631866286	libflush/CMakeFiles/flush.dir/libflush/libflush.c.o	b04f5b8e5a6a27aa
+0	140	1631866286	CMakeFiles/native-lib.dir/fakedl.cpp.o	c2ebeac5013f9768
+1	82	1631866286	libflush/CMakeFiles/flush.dir/libflush/calibrate.c.o	d30246cdb576d55e
+1	713	1631866287	CMakeFiles/native-lib.dir/native-lib.cpp.o	24419cb293e9350a
+1	255	1631866286	libflush/CMakeFiles/flush.dir/libflush/hit.c.o	2349cc1178bdf777
+961	1014	1631866287	/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/liboatparser.so	d234af11119dc5da
+56	131	1631866286	libflush/CMakeFiles/flush.dir/libflush/armv8/libflush.c.o	efb2ecaa86ac5892
+0	1034	1631866287	CMakeFiles/native-lib.dir/ReadOffset.cpp.o	3a0be034c56f979
+255	272	1631866286	/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/src/main/cpp/libflush/libs/arm64-v8a/libflush.so	4510abe13ee15959
+18	83	1631866286	libflush/CMakeFiles/flush.dir/libflush/lock.c.o	89f430fc538a1df4
+1034	1066	1631866287	/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	78aaeb87c1b05a61
+19	72	1631866286	libflush/CMakeFiles/flush.dir/libflush/utils.c.o	f62f0169eba123e2
+40	179	1631866286	libflush/CMakeFiles/flush.dir/libflush/eviction/eviction.c.o	1e4c3c0321f761f5
+18	90	1631866286	libflush/CMakeFiles/flush.dir/libflush/timing.c.o	e5db9c2b0b891b80
+602	649	1631866287	/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libdexinfo.so	4d2da4aff8c9b761
+70	602	1631866286	dexinfo/CMakeFiles/dexinfo.dir/dexinfo.cpp.o	a113f793f60ca0a0
+1	677	1631866287	CMakeFiles/native-lib.dir/CheckFlags.cpp.o	b85b3f4231d98119
+1	49	1632023012	/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	78aaeb87c1b05a61
+0	47	1632025092	/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libdexinfo.so	4d2da4aff8c9b761
+1	54	1632025092	/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/liboatparser.so	d234af11119dc5da
+54	86	1632025092	/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	78aaeb87c1b05a61

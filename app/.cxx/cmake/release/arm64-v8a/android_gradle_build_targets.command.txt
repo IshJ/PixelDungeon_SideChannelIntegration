@@ -1,0 +1,10 @@
+Executable : /home/ishadi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/release/arm64-v8a
+dexinfo
+flush
+native-lib
+oatparser
+jvmArgs : 
+

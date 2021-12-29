@@ -1,0 +1,12 @@
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/libflush/CMakeFiles/rebuild_cache.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/libflush/CMakeFiles/edit_cache.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/libflush/CMakeFiles/flush.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/dexinfo/CMakeFiles/rebuild_cache.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/dexinfo/CMakeFiles/edit_cache.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/dexinfo/CMakeFiles/dexinfo.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/oat-parser/CMakeFiles/rebuild_cache.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/oat-parser/CMakeFiles/edit_cache.dir
+/home/ishadi/Documents/AndroidCFI/app-code/pixel-dungeon-master1/app/.cxx/cmake/debug/arm64-v8a/oat-parser/CMakeFiles/oatparser.dir
